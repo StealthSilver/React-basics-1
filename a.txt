@@ -1,0 +1,12 @@
+REACT -> A JS library for creating user interfaces 
+documentation -> react.dev , created by meta
+
+React increases the reusability, Atlassian website is completely built on REACT 
+
+A componet is a reusable piece of code 
+
+the components form a heiarchy 
+
+JSX -> javascript extention syntax
+
+it lets us write HTMl directly inside JS
