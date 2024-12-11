@@ -40,3 +40,29 @@ and 4 files
 4. index.css -> this is the styling file for the index.html 
 
 index.html -> main.jsx -> app.jsx (basic flow) 
+
+
+Creating a component 
+
+Component is the reusable independent piece of code 
+
+creation : function Title() {
+    return (
+        <h1> Hello World </h1>
+    );
+}
+
+rendering:
+<Title></Title> 
+
+IMPORT - EXPORT 
+
+Import -> import Title from "./Title.jsx";
+
+default export -> export default Title;
+
+
+for multiple exports
+Named Export -> export {Title} , 
+
+import (Title) from "./Title.jsx";
