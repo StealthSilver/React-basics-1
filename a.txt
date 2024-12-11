@@ -10,3 +10,33 @@ the components form a heiarchy
 JSX -> javascript extention syntax
 
 it lets us write HTMl directly inside JS
+JSX is transpiled to JS by using BABLE
+
+Setting up REACT 
+
+create-React-App  v/s Vite 
+
+Vite is faster 
+npm create vite@latest
+
+to run the application : npm run dev
+
+in the react folder . there are differnt files 
+
+1. the git ignore file is to ignore the things posted on git 
+2. the eslint file is for formatting
+3. index.html is the basic html file this is the homepage
+the root div is present here. everything renders inside this 
+
+
+there is a public folder and a src folder 
+
+the src folder contains the assets folder
+and 4 files 
+
+1. App.jsx -> this is the main component , this is the main parent comp. 
+2. App.css -> this contains the styles for the App.jsx
+3. main.jsx -> here we access the root div
+4. index.css -> this is the styling file for the index.html 
+
+index.html -> main.jsx -> app.jsx (basic flow) 
