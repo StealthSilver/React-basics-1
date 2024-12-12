@@ -92,3 +92,8 @@ inside the JSX we can use curly braces to write the pure JS code
 
 basic-react-app-4
 Structuring Componets 
+
+Style components 
+
+we divide the styling in different files 
+then we use webpack to import and export files
