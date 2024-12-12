@@ -72,4 +72,20 @@ Writing markup in jsx
 1. Return a single root element
 2. Close all the tags 
 3. camelCase most of the things 
+instead of class use className 
 
+React Fragment 
+
+it lets you group a list of children  without adding an extra node to the DOM 
+
+<> 
+<Title/>
+<Title/>
+<Title/>
+</>
+
+JSX with curly braces :
+
+inside the JSX we can use curly braces to write the pure JS code 
+
+<p> 2 * 2  = {2*2} </p>
