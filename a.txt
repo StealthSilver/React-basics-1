@@ -89,3 +89,6 @@ JSX with curly braces :
 inside the JSX we can use curly braces to write the pure JS code 
 
 <p> 2 * 2  = {2*2} </p>
+
+basic-react-app-4
+Structuring Componets 
