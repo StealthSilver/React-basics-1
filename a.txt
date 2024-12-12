@@ -66,3 +66,10 @@ for multiple exports
 Named Export -> export {Title} , 
 
 import (Title) from "./Title.jsx";
+
+Writing markup in jsx
+
+1. Return a single root element
+2. Close all the tags 
+3. camelCase most of the things 
+
